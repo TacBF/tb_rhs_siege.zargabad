@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_AAD_Template_A">
+
+	<Key ID="STR_TB_missionTitle_TB_AAD_Template_A">
+		<Original>TB A&amp;D Template A</Original>
+		<English>TB A&amp;D Template A</English>
+		<German>TB A&amp;D Template A</German>
+		<Italian>TB A&amp;D Template A</Italian>
+		<Spanish>TB A&amp;D Template A</Spanish>
+		<French>TB A&amp;D Template A</French>
+		<Czech>TB A&amp;D Template A</Czech>
+		<Russian>TB A&amp;D Template A</Russian>
+		<Polish>TB A&amp;D Template A</Polish>
+		<Hungarian>TB A&amp;D Template A</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>

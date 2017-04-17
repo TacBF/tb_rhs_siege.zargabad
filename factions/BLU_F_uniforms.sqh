@@ -1,0 +1,44 @@
+// JAF - Army (Leon Special)
+// Author: Cole
+
+uniforms[] =
+{
+// UNIFORMS
+	
+	// Infantry
+	{"O_CombatUniform_TB_JOR_Arid", {__ICE_gear_allRoles}},
+		
+	// Sniper
+	{"U_B_FullGhillie_ard", {__ICE_gear_Sniper}},
+	{"U_B_FullGhillie_lsh", {__ICE_gear_Sniper}},
+	{"U_B_FullGhillie_sard", {__ICE_gear_Sniper}},
+		
+	// Pilot
+	{"U_I_HeliPilotCoveralls", {__ICE_gear_Pilot}},
+
+// VESTS
+	
+	// Infantry
+	{"V_TacVest_oli", {__ICE_gear_allRoles}},
+
+// HELMETS
+	
+	// Infantry
+	{"H_HelmetIA_JOR_Arid", {__ICE_gear_allRoles}},
+	{"H_Booniehat_pan", {__ICE_gear_Marksman, __ICE_gear_Sniper}},
+		
+	// Crewman
+	{"rhsusf_cvc_green_helmet", {__ICE_gear_Crewman}},
+		
+	// Pilot
+	{"rhs_zsh7a_mike", {__ICE_gear_Pilot}},
+
+// GLASSES
+	
+	{"rhs_googles_black", {__ICE_gear_allRoles}},
+	{"rhs_googles_orange", {__ICE_gear_allRoles}},
+	{"rhs_googles_yellow", {__ICE_gear_allRoles}},
+	{"rhs_googles_clear", {__ICE_gear_allRoles}},
+	{"rhs_balaclava", {__ICE_gear_allRoles}},
+	{"rhs_scarf", {__ICE_gear_allRoles}}
+};

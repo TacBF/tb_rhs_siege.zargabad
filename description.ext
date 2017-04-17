@@ -1,0 +1,14 @@
+#define TB_loadingScreen_imagePath "tb_loadingScreen.jpg"
+//#define TB_loadingScreen_imagePath "\a3\ui_f\data\Logos\arma3_expansion_ca.paa"
+
+onLoadName="Siege";
+author="Leon (TacBF Team)";
+onLoadMission="Attack and Defend [M-50]. Urban. Insurgents (attacking) Light vehicles, APCs, AA. -vs- Jordan (defending) light vehicles, APCs, Jet.";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+
+#include "tb_mountedWeapons.hpp"
+#include "tb_vehicleInit.hpp"
